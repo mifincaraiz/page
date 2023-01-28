@@ -292,7 +292,8 @@ svg {
   vertical-align: middle;
 }
 
-img {
+img 
+{
     display: block;
     max-width: 50% !important;
     height: auto;
