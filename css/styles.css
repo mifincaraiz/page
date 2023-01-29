@@ -298,7 +298,7 @@ svg {
   vertical-align: middle;
 }
 
-img 
+img.navbar-logo 
 {
     display: block;
     max-width: 40% !important;
